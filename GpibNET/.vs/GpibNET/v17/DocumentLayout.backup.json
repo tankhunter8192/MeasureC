@@ -1,0 +1,1576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\devicehandling\\gpibhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:devicehandling\\gpibhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\pages\\devices.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\pages\\devices.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\pages\\programeditor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\pages\\programeditor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\measurelanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\measurelanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\pages\\usercreator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\pages\\usercreator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\pages\\programcreator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\pages\\programcreator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\pages\\user.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\pages\\user.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\pages\\programs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\pages\\programs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\data\\dbclasses\\measurepointvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:data\\dbclasses\\measurepointvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\measurelanguagegrammar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\measurelanguagegrammar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customastnodes\\identifierexpressionastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customastnodes\\identifierexpressionastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\data\\dbclasses\\logmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:data\\dbclasses\\logmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\data\\globalstaticvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:data\\globalstaticvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customastnodes\\expressionastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customastnodes\\expressionastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\pages\\codeeditor.razor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\pages\\codeeditor.razor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customastnodes\\addoperatorastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customastnodes\\addoperatorastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customastnodes\\signastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customastnodes\\signastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customastnodes\\assignexpressionastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customastnodes\\assignexpressionastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customastnodes\\addexpressionastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customastnodes\\addexpressionastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customastnodes\\headloopastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customastnodes\\headloopastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customastnodes\\timeastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customastnodes\\timeastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\wwwroot\\lib\\codemirror\\mode\\clike\\clike.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:wwwroot\\lib\\codemirror\\mode\\clike\\clike.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\_host.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\_host.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\pages\\programeditor.razor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\pages\\programeditor.razor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\wwwroot\\js\\codemirrorstart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:wwwroot\\js\\codemirrorstart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\pages\\codeeditor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\pages\\codeeditor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\data\\dbclasses\\programmfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:data\\dbclasses\\programmfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\pages\\programeditor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\pages\\programeditor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tank\\AppData\\Local\\Temp\\visualstudio-js-debugger.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\devicehandling\\devicescanningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:devicehandling\\devicescanningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\3-Program\\GPIB.Data\\Static\\Settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\data\\dbclasses\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:data\\dbclasses\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\models\\programfilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:models\\programfilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\migrations\\20241123122325_seedprofileandgpibdevicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:migrations\\20241123122325_seedprofileandgpibdevicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\data\\dbclasses\\gpibdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:data\\dbclasses\\gpibdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\data\\dbclasses\\databasedevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:data\\dbclasses\\databasedevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tank\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\gpib.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:gpib.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\license.txt||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:license.txt||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\devicehandling\\pyvisawrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:devicehandling\\pyvisawrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customterminals\\timeterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customterminals\\timeterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customastnodes\\typeastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customastnodes\\typeastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customastnodes\\headloopelementastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customastnodes\\headloopelementastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customastnodes\\programastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customastnodes\\programastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\account\\pages\\manage\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\account\\pages\\manage\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customterminals\\customnumberterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customterminals\\customnumberterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customastnodes\\statementastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customastnodes\\statementastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customastnodes\\functionastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customastnodes\\functionastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tank\\AppData\\Local\\Temp\\.vsdbgsrc\\ea6287d0d08e3f27fe7dd73de3416c55bddd85a9776178384dddc539414e081\\IdentifierTerminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customterminals\\engineeringnumberterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customterminals\\engineeringnumberterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tank\\AppData\\Local\\Temp\\.vsdbgsrc\\2b782254e3825315febc227901455bddc615aad52b8c3c6de16c1d6e34239\\RegExBasedTerminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customastnodes\\headfunctionastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customastnodes\\headfunctionastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customastnodes\\threadastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customastnodes\\threadastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\languagehandling\\customastnodes\\loopblockastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:languagehandling\\customastnodes\\loopblockastnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\data\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:data\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\pages\\programeditor.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\pages\\programeditor.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\account\\pages\\manage\\personaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\account\\pages\\manage\\personaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\account\\shared\\statusmessage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\account\\shared\\statusmessage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\account\\pages\\logout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\account\\pages\\logout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\migrations\\20241030191520_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:migrations\\20241030191520_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tank\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-GpibNET-b253e013-96a0-4503-b3d7-85a4b2afac49\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\data\\dbclasses\\enumdevicetyp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:data\\dbclasses\\enumdevicetyp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\account\\identityredirectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\account\\identityredirectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\account\\pages\\manage\\setpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\account\\pages\\manage\\setpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\account\\pages\\manage\\deletepersonaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\account\\pages\\manage\\deletepersonaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\components\\account\\pages\\accessdenied.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:components\\account\\pages\\accessdenied.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|m:\\repos\\git-copies\\gbipnet\\1-sw\\4-othertreeprogram\\gpibnet\\migrations\\20250219091034_addprofiledeviceidtogpibdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCC18FF-0266-4606-80AF-FD1671BF43D2}|Gpib.Web.csproj|solutionrelative:migrations\\20250219091034_addprofiledeviceidtogpibdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 40,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7615f12e-922a-545a-b9a0-3305b93d08c0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e9f0ab1f-5649-4620-a7d9-ee96788df550}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{271d5c74-3ac9-4328-910a-713e65f6ec25}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{a0550017-e1d7-4d15-bb20-88380d43322b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddExpressionAstNode.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\AddExpressionAstNode.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomAstNodes\\AddExpressionAstNode.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\AddExpressionAstNode.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomAstNodes\\AddExpressionAstNode.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:18:36.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssignExpressionAstNode.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\AssignExpressionAstNode.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomAstNodes\\AssignExpressionAstNode.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\AssignExpressionAstNode.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomAstNodes\\AssignExpressionAstNode.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:18:29.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddOperatorAstNode.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\AddOperatorAstNode.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomAstNodes\\AddOperatorAstNode.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\AddOperatorAstNode.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomAstNodes\\AddOperatorAstNode.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:17:51.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clike.js",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\clike\\clike.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\codemirror\\mode\\clike\\clike.js",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\clike\\clike.js",
+              "RelativeToolTip": "wwwroot\\lib\\codemirror\\mode\\clike\\clike.js",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAAAHABAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-25T15:33:06.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CodeEditor.razor.js",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\CodeEditor.razor.js",
+              "RelativeDocumentMoniker": "Components\\Pages\\CodeEditor.razor.js",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\CodeEditor.razor.js",
+              "RelativeToolTip": "Components\\Pages\\CodeEditor.razor.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-20T14:06:45.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CodeEditor.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\CodeEditor.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\CodeEditor.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\CodeEditor.razor",
+              "RelativeToolTip": "Components\\Pages\\CodeEditor.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T13:55:49.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CodeMirrorStart.js",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\js\\CodeMirrorStart.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\CodeMirrorStart.js",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\js\\CodeMirrorStart.js",
+              "RelativeToolTip": "wwwroot\\js\\CodeMirrorStart.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-20T11:27:06.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ManageLayout.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Shared\\ManageLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Shared\\ManageLayout.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Shared\\ManageLayout.razor",
+              "RelativeToolTip": "Components\\Account\\Shared\\ManageLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T12:06:43.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ManageNavMenu.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Shared\\ManageNavMenu.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "RelativeToolTip": "Components\\Account\\Shared\\ManageNavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T12:06:39.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Login.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\Login.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Login.razor",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T11:54:39.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T11:40:09.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProgrammFile.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\DBClasses\\ProgrammFile.cs",
+              "RelativeDocumentMoniker": "Data\\DBClasses\\ProgrammFile.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\DBClasses\\ProgrammFile.cs",
+              "RelativeToolTip": "Data\\DBClasses\\ProgrammFile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:23:01.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProgramEditor.cshtml",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\ProgramEditor.cshtml",
+              "RelativeDocumentMoniker": "Components\\Pages\\ProgramEditor.cshtml",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\ProgramEditor.cshtml",
+              "RelativeToolTip": "Components\\Pages\\ProgramEditor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:39:12.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Programs.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\Programs.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Programs.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\Programs.razor",
+              "RelativeToolTip": "Components\\Pages\\Programs.razor",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T15:34:33.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:38:44.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "App.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T15:08:30.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20241123122325_SeedProfileAndGPIBDeviceData.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Migrations\\20241123122325_SeedProfileAndGPIBDeviceData.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241123122325_SeedProfileAndGPIBDeviceData.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Migrations\\20241123122325_SeedProfileAndGPIBDeviceData.cs",
+              "RelativeToolTip": "Migrations\\20241123122325_SeedProfileAndGPIBDeviceData.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:12:34.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DataBaseDevice.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\DBClasses\\DataBaseDevice.cs",
+              "RelativeDocumentMoniker": "Data\\DBClasses\\DataBaseDevice.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\DBClasses\\DataBaseDevice.cs",
+              "RelativeToolTip": "Data\\DBClasses\\DataBaseDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:36:09.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tank\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\Tank\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAIBJwIkAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:09:27.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "LICENSE.txt",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LICENSE.txt",
+              "RelativeDocumentMoniker": "LICENSE.txt",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LICENSE.txt",
+              "RelativeToolTip": "LICENSE.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-18T21:00:30.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "TypeAstNode.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\TypeAstNode.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomAstNodes\\TypeAstNode.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\TypeAstNode.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomAstNodes\\TypeAstNode.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIBZwCAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:37:23.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "TimeTerminal.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomTerminals\\TimeTerminal.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomTerminals\\TimeTerminal.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomTerminals\\TimeTerminal.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomTerminals\\TimeTerminal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:40:52.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "HeadLoopElementAstNode.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\HeadLoopElementAstNode.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomAstNodes\\HeadLoopElementAstNode.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\HeadLoopElementAstNode.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomAstNodes\\HeadLoopElementAstNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:51:10.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CustomNumberTerminal.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomTerminals\\CustomNumberTerminal.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomTerminals\\CustomNumberTerminal.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomTerminals\\CustomNumberTerminal.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomTerminals\\CustomNumberTerminal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T00:05:54.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DeviceScanningService.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\DeviceHandling\\DeviceScanningService.cs",
+              "RelativeDocumentMoniker": "DeviceHandling\\DeviceScanningService.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\DeviceHandling\\DeviceScanningService.cs",
+              "RelativeToolTip": "DeviceHandling\\DeviceScanningService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAE0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:46:45.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TimeAstNode.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\TimeAstNode.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomAstNodes\\TimeAstNode.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\TimeAstNode.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomAstNodes\\TimeAstNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:17:23.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HeadLoopAstNode.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\HeadLoopAstNode.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomAstNodes\\HeadLoopAstNode.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\HeadLoopAstNode.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomAstNodes\\HeadLoopAstNode.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:41:11.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "HeadFunctionAstNode.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\HeadFunctionAstNode.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomAstNodes\\HeadFunctionAstNode.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\HeadFunctionAstNode.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomAstNodes\\HeadFunctionAstNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:39:49.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PyVisaWrapper.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\DeviceHandling\\PyVisaWrapper.cs",
+              "RelativeDocumentMoniker": "DeviceHandling\\PyVisaWrapper.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\DeviceHandling\\PyVisaWrapper.cs",
+              "RelativeToolTip": "DeviceHandling\\PyVisaWrapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:30:35.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogMessage.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\DBClasses\\LogMessage.cs",
+              "RelativeDocumentMoniker": "Data\\DBClasses\\LogMessage.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\DBClasses\\LogMessage.cs",
+              "RelativeToolTip": "Data\\DBClasses\\LogMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:04:46.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GlobalStaticVariables.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\GlobalStaticVariables.cs",
+              "RelativeDocumentMoniker": "Data\\GlobalStaticVariables.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\GlobalStaticVariables.cs",
+              "RelativeToolTip": "Data\\GlobalStaticVariables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T18:53:45.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GPIBHandler.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\DeviceHandling\\GPIBHandler.cs",
+              "RelativeDocumentMoniker": "DeviceHandling\\GPIBHandler.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\DeviceHandling\\GPIBHandler.cs",
+              "RelativeToolTip": "DeviceHandling\\GPIBHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T18:23:07.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ProgramAstNode.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\ProgramAstNode.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomAstNodes\\ProgramAstNode.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\ProgramAstNode.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomAstNodes\\ProgramAstNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:57:10.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "StatementAstNode.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\StatementAstNode.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomAstNodes\\StatementAstNode.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\StatementAstNode.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomAstNodes\\StatementAstNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:41:12.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ThreadAstNode.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\ThreadAstNode.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomAstNodes\\ThreadAstNode.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\ThreadAstNode.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomAstNodes\\ThreadAstNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:45:59.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FunctionAstNode.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\FunctionAstNode.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomAstNodes\\FunctionAstNode.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\FunctionAstNode.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomAstNodes\\FunctionAstNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:45:17.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "LoopBlockAstNode.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\LoopBlockAstNode.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomAstNodes\\LoopBlockAstNode.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\LoopBlockAstNode.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomAstNodes\\LoopBlockAstNode.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwEAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:23:28.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T16:35:18.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T16:35:15.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Logout.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\Logout.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Logout.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\Logout.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Logout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T12:31:50.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20241030191520_InitialCreate.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Migrations\\20241030191520_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241030191520_InitialCreate.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Migrations\\20241030191520_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241030191520_InitialCreate.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAASwEsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:15:31.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Tank\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-GpibNET-b253e013-96a0-4503-b3d7-85a4b2afac49\\secrets.json",
+              "ToolTip": "C:\\Users\\Tank\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-GpibNET-b253e013-96a0-4503-b3d7-85a4b2afac49\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T18:55:37.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:40:06.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "EngineeringNumberTerminal.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomTerminals\\EngineeringNumberTerminal.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomTerminals\\EngineeringNumberTerminal.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomTerminals\\EngineeringNumberTerminal.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomTerminals\\EngineeringNumberTerminal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:50:14.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ProgramEditor.cshtml.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\ProgramEditor.cshtml.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\ProgramEditor.cshtml.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\ProgramEditor.cshtml.cs",
+              "RelativeToolTip": "Components\\Pages\\ProgramEditor.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:40:07.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProgramFileModel.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Models\\ProgramFileModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProgramFileModel.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Models\\ProgramFileModel.cs",
+              "RelativeToolTip": "Models\\ProgramFileModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:53:34.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GPIBDevice.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\DBClasses\\GPIBDevice.cs",
+              "RelativeDocumentMoniker": "Data\\DBClasses\\GPIBDevice.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\DBClasses\\GPIBDevice.cs",
+              "RelativeToolTip": "Data\\DBClasses\\GPIBDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:45:44.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T12:23:43.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "EnumDeviceTyp.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\DBClasses\\EnumDeviceTyp.cs",
+              "RelativeDocumentMoniker": "Data\\DBClasses\\EnumDeviceTyp.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\DBClasses\\EnumDeviceTyp.cs",
+              "RelativeToolTip": "Data\\DBClasses\\EnumDeviceTyp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:05:13.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Data\\Controllers\\UserController.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Data\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:57:14.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Gpib.Web.csproj",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Gpib.Web.csproj",
+              "RelativeDocumentMoniker": "Gpib.Web.csproj",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Gpib.Web.csproj",
+              "RelativeToolTip": "Gpib.Web.csproj",
+              "ViewState": "AgIAABkAAAAAAAAAAABBwB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T14:57:12.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T14:31:01.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\3-Program\\GPIB.Data\\Static\\Settings.cs",
+              "RelativeDocumentMoniker": "..\\..\\3-Program\\GPIB.Data\\Static\\Settings.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\3-Program\\GPIB.Data\\Static\\Settings.cs",
+              "RelativeToolTip": "..\\..\\3-Program\\GPIB.Data\\Static\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:06:41.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationUser.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "Data\\ApplicationUser.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:56:30.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T18:41:30.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IdentityRedirectManager.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\IdentityRedirectManager.cs",
+              "RelativeDocumentMoniker": "Components\\Account\\IdentityRedirectManager.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\IdentityRedirectManager.cs",
+              "RelativeToolTip": "Components\\Account\\IdentityRedirectManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:00:50.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "SetPassword.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T14:20:31.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:16:03.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T16:45:11.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "PersonalData.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\Manage\\PersonalData.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Manage\\PersonalData.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\Manage\\PersonalData.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Manage\\PersonalData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T14:19:37.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Index.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Manage\\Index.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Manage\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T14:16:01.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-06T10:07:51.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-06T10:09:25.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "StatusMessage.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Shared\\StatusMessage.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Shared\\StatusMessage.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Shared\\StatusMessage.razor",
+              "RelativeToolTip": "Components\\Account\\Shared\\StatusMessage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T14:22:55.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "DeletePersonalData.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T14:14:53.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ChangePassword.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T14:12:49.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MeasureLanguage.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\MeasureLanguage.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\MeasureLanguage.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\MeasureLanguage.cs",
+              "RelativeToolTip": "LanguageHandling\\MeasureLanguage.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:25:41.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T14:08:47.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "AccessDenied.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\AccessDenied.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\AccessDenied.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\AccessDenied.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\AccessDenied.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T09:50:42.018Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "da2cb171-f6eb-4637-bd95-888d2150b718",
+        "Display": 0,
+        "X": 3835,
+        "Y": 10,
+        "Width": 1908,
+        "Height": 1026,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RegExBasedTerminal.cs",
+              "DocumentMoniker": "C:\\Users\\Tank\\AppData\\Local\\Temp\\.vsdbgsrc\\2b782254e3825315febc227901455bddc615aad52b8c3c6de16c1d6e34239\\RegExBasedTerminal.cs",
+              "ToolTip": "C:\\Users\\Tank\\AppData\\Local\\Temp\\.vsdbgsrc\\2b782254e3825315febc227901455bddc615aad52b8c3c6de16c1d6e34239\\RegExBasedTerminal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:43:12.685Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IdentifierTerminal.cs",
+              "DocumentMoniker": "C:\\Users\\Tank\\AppData\\Local\\Temp\\.vsdbgsrc\\ea6287d0d08e3f27fe7dd73de3416c55bddd85a9776178384dddc539414e081\\IdentifierTerminal.cs",
+              "ToolTip": "C:\\Users\\Tank\\AppData\\Local\\Temp\\.vsdbgsrc\\ea6287d0d08e3f27fe7dd73de3416c55bddd85a9776178384dddc539414e081\\IdentifierTerminal.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIBZwDsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:04:43.622Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "User.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\DBClasses\\User.cs",
+              "RelativeDocumentMoniker": "Data\\DBClasses\\User.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\DBClasses\\User.cs",
+              "RelativeToolTip": "Data\\DBClasses\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:35:20.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MeasureLanguageGrammar.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\MeasureLanguageGrammar.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\MeasureLanguageGrammar.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\MeasureLanguageGrammar.cs",
+              "RelativeToolTip": "LanguageHandling\\MeasureLanguageGrammar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:44:27.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Auth.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\Auth.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Auth.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\Auth.razor",
+              "RelativeToolTip": "Components\\Pages\\Auth.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T16:56:25.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Register.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Register.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Account\\Pages\\Register.razor",
+              "RelativeToolTip": "Components\\Account\\Pages\\Register.razor",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T16:28:04.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\Users.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Users.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\Users.razor",
+              "RelativeToolTip": "Components\\Pages\\Users.razor",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T07:21:21.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProgramCreator.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\ProgramCreator.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ProgramCreator.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\ProgramCreator.razor",
+              "RelativeToolTip": "Components\\Pages\\ProgramCreator.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T12:09:13.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Home.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T18:36:01.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgramEditor.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\ProgramEditor.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ProgramEditor.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\ProgramEditor.razor",
+              "RelativeToolTip": "Components\\Pages\\ProgramEditor.razor",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T11:56:30.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProgramEditor.razor.js",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\ProgramEditor.razor.js",
+              "RelativeDocumentMoniker": "Components\\Pages\\ProgramEditor.razor.js",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\ProgramEditor.razor.js",
+              "RelativeToolTip": "Components\\Pages\\ProgramEditor.razor.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-20T15:29:45.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Host.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\_Host.razor",
+              "RelativeDocumentMoniker": "Components\\_Host.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\_Host.razor",
+              "RelativeToolTip": "Components\\_Host.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T15:08:20.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "visualstudio-js-debugger.txt",
+              "DocumentMoniker": "C:\\Users\\Tank\\AppData\\Local\\Temp\\visualstudio-js-debugger.txt",
+              "ToolTip": "C:\\Users\\Tank\\AppData\\Local\\Temp\\visualstudio-js-debugger.txt",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAAAOYAAADLAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-19T16:18:00.663Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "b5ad603b-d899-4620-a77b-b674625932fc",
+        "Display": 0,
+        "X": 1996,
+        "Y": 0,
+        "Width": 1769,
+        "Height": 1037,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SignAstNode.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\SignAstNode.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomAstNodes\\SignAstNode.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\SignAstNode.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomAstNodes\\SignAstNode.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:00:56.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExpressionAstNode.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\ExpressionAstNode.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomAstNodes\\ExpressionAstNode.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\ExpressionAstNode.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomAstNodes\\ExpressionAstNode.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:22:04.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IdentifierExpressionAstNode.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\IdentifierExpressionAstNode.cs",
+              "RelativeDocumentMoniker": "LanguageHandling\\CustomAstNodes\\IdentifierExpressionAstNode.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\LanguageHandling\\CustomAstNodes\\IdentifierExpressionAstNode.cs",
+              "RelativeToolTip": "LanguageHandling\\CustomAstNodes\\IdentifierExpressionAstNode.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAQwAMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:43:07.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MeasurePointVariable.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\DBClasses\\MeasurePointVariable.cs",
+              "RelativeDocumentMoniker": "Data\\DBClasses\\MeasurePointVariable.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\DBClasses\\MeasurePointVariable.cs",
+              "RelativeToolTip": "Data\\DBClasses\\MeasurePointVariable.cs",
+              "ViewState": "AgIAAMYFAAAAAAAAAAAAAOUFAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:27:07.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\User.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\User.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\User.razor",
+              "RelativeToolTip": "Components\\Pages\\User.razor",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T08:08:38.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserCreator.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\UserCreator.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\UserCreator.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\UserCreator.razor",
+              "RelativeToolTip": "Components\\Pages\\UserCreator.razor",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwFkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T08:40:06.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Devices.razor",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\Devices.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Devices.razor",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\Devices.razor",
+              "RelativeToolTip": "Components\\Pages\\Devices.razor",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwDEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T10:58:26.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4f03c9cb-4cdd-471e-acb9-1ae2e4348f4b",
+        "Display": 0,
+        "X": 2190,
+        "Y": 0,
+        "Width": 1373,
+        "Height": 1037,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20250219091034_AddProfileDeviceIdToGPIBDevice.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Migrations\\20250219091034_AddProfileDeviceIdToGPIBDevice.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250219091034_AddProfileDeviceIdToGPIBDevice.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Migrations\\20250219091034_AddProfileDeviceIdToGPIBDevice.cs",
+              "RelativeToolTip": "Migrations\\20250219091034_AddProfileDeviceIdToGPIBDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T09:10:35.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:32:01.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

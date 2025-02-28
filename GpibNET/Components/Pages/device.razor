@@ -1,0 +1,103 @@
+﻿@page "/devices/{id:int}"
+
+@using Gpib.Web.Data.DBClasses
+@using Gpib.Web.Data
+@using Gpib.Web.Pages
+
+@using Microsoft.EntityFrameworkCore
+@using Microsoft.AspNetCore.Identity
+
+@inject NavigationManager NavigationManager
+@inject ApplicationDbContext DbContext
+
+<PageTitle>Edit Device</PageTitle>
+
+<h1>Edit Device</h1>
+
+<EditForm Model="@gpibDev">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <div class="form-group">
+        <label>Connection String</label>
+        <InputText @bind-Value="gpibDev.ConnectionString" class="form-control" />
+        <ValidationMessage For="@(() => gpibDev.ConnectionString)" />
+    </div>
+    
+    <div class="form-group">
+        <label>Alias - Name for the programming</label>
+        <InputText @bind-Value="gpibDev.Alias" class="form-control" />
+        <ValidationMessage For="@(() => gpibDev.Alias)" />
+    </div>
+    
+    <div class="form-group">
+        <label>Profile</label>
+        <select @bind="gpibDev.Profile" class="form-group">
+            @if (Profiles.Any())
+            {
+                @foreach (var _profile in Profiles)
+                {
+                    <option value="@_profile.Name">@_profile.Name</option>
+                }
+            }
+            else
+            {
+                <option value="">No profiles available</option>
+            }
+        </select>
+    </div>
+    
+    <button type="submit" class="btn btn-primary">save</button>
+    <button type="button" class="btn btn-secondary" @onclick="Cancel">Cancel</button>
+</EditForm>
+
+@code
+{
+    [Parameter]
+    public int Id { get; set; }
+    private GpibDev gpibDev { get; set; } = new();
+    private List<ProfileDevice> Profiles { get; set; } = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        GPIBDevice dev = await DbContext.Devices.FindAsync(Id);
+        if (dev is null)
+        {
+            NavigationManager.NavigateTo("/devices");
+        }
+        gpibDev.ConnectionString = dev.ConnectionString;
+        gpibDev.Alias = dev.Name;
+
+        Profiles = await DbContext.ProfileDevices.ToListAsync();
+        ProfileDevice profile = await DbContext.ProfileDevices.FindAsync(dev.ProfileDeviceId);
+        if (profile is null)
+        {
+            gpibDev.Profile = "";
+        }
+    }
+
+    private void Cancel()
+    {
+        NavigationManager.NavigateTo("/devices");
+    }
+
+    protected async Task HandleValidSubmit()
+    {
+        GPIBDevice dev = await DbContext.Devices.FindAsync(Id);
+        if (dev is null)
+        {
+            NavigationManager.NavigateTo("/devices");
+        }
+        dev.ConnectionString = gpibDev.ConnectionString;
+        dev.Name = gpibDev.Alias;
+        dev.ProfileDeviceId = Profiles.FirstOrDefault(p => p.Name == gpibDev.Profile).Id;
+        await DbContext.SaveChangesAsync();
+        NavigationManager.NavigateTo("/devices");
+    }
+
+    protected sealed class GpibDev
+    {
+        public string ConnectionString { get; set; }
+        public string Alias { get; set; }
+        public string Profile { get; set; }
+    }
+}

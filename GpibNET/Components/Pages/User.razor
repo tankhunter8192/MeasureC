@@ -1,0 +1,81 @@
+﻿@page "user/{Id:string}"
+@using System.ComponentModel.DataAnnotations
+@using Gpib.Web.Data
+@using Gpib.Web.Data.DBClasses
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.EntityFrameworkCore
+
+@inject ApplicationDbContext Context
+@inject NavigationManager NavigationManager
+@inject UserManager<ApplicationUser> UserManager
+
+<h1>@(IsNew ? "Create" : "Edit") User</h1>
+
+<EditForm Model="@User" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <div class="form-group">
+        <label>Username</label>
+        <InputText @bind-Value="User.UserName" class="form-control" />
+        <ValidationMessage For="@(() => User.UserName)" />
+    </div>
+
+    <div class="form-group">
+        <label>Password</label>
+        <InputText @bind-Value="password" class="form-control" />
+        <ValidationMessage For="@(() => password)" />
+    </div>
+
+    <div class="form-group">
+        <label>Is Admin</label>
+        <InputCheckbox @bind-Value="User.IsAdmin" class="form-control" />
+        <ValidationMessage For="@(() => User.IsAdmin)" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">save</button>
+    <button type="button" class="btn btn-secondary" @onclick="Cancel">Cancel</button>
+
+</EditForm>
+
+@code {
+    [Parameter]
+    public string Id { get; set; }
+    private bool IsNew => Id == "0";
+    [Required]
+    private ApplicationUser User { get; set; } = new ();
+    private string password { get; set; } = "";
+    protected override async Task OnInitializedAsync()
+    {
+        if (!IsNew)
+        {
+            User = await Context.Users.FindAsync(Id);
+            if (User is null)
+            {
+                //new case
+                NavigationManager.NavigateTo("/user/0");
+            }
+        }
+    }
+    private async Task HandleValidSubmit()
+    {
+        if (IsNew)
+        {
+            User.AddDateTime = DateTime.UtcNow;
+            User.LastLoginDateTime = DateTime.UtcNow;
+            await Context.CreateUserAsync(User, password,UserManager);
+        }
+        else
+        {
+            //find other admins, for lockout prevention
+            bool otherAdmins = await Context.Users.AnyAsync(u => u.IsAdmin && u.Id != User.Id);
+
+            if(otherAdmins) Context.Users.Update(User);
+        }
+        await Context.SaveChangesAsync();
+        NavigationManager.NavigateTo("/users");
+    }
+    private void Cancel()
+    {
+        NavigationManager.NavigateTo("/users");
+    }
+}

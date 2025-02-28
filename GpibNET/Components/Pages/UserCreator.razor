@@ -1,0 +1,100 @@
+﻿@page "/usercreator"
+
+@using Gpib.Web.Data
+@using Gpib.Web.Data.DBClasses
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.EntityFrameworkCore
+@using Microsoft.AspNetCore.Components.Forms
+
+@inject ApplicationDbContext Context
+@inject UserManager<ApplicationUser> UserManager
+@inject NavigationManager NavigationManager
+@inject AuthenticationStateProvider AuthenticationStateProvider
+
+@attribute [Authorize]
+
+<PageTitle>Create User</PageTitle>
+
+<h1>Create User</h1>
+
+<form method="post" @onsubmit="HandleValidSubmit">
+    <div class="form-group">
+        <label>User Name</label>
+        <InputText @bind-Value="_newUser.UserName" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Password</label>
+        <InputText @bind-Value="_password" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Is Admin</label>
+        <InputCheckbox @bind-Value="_newUser.IsAdmin" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+    <button type="button" class="btn btn-warning" @onclick="() => Reset()">Reset</button>
+    <button type="button" class="btn btn-close" @onclick="() => Cancel()"></button>
+</form>
+
+@if(errorMessages.Any())
+{
+    <div class="alert alert-danger" role="alert">
+        @foreach (var message in errorMessages)
+        {
+            <p>@message</p>
+        }
+    </div>
+})
+
+@code
+{
+    private ApplicationUser _newUser = new ApplicationUser();
+    private string _password = "";
+    private List<string> errorMessages = new List<string>();
+
+    private async Task HandleValidSubmit()
+    {
+        errorMessages.Clear();
+        if (_password.Equals(String.Empty))
+        {
+            errorMessages.Add("Password is required.");
+            //handle empty _password
+            return;
+        }
+        if (await Context.Users.AnyAsync(u => u.UserName == _newUser.UserName))
+        {
+            errorMessages.Add("User already exists.");
+            //exists
+        }
+        else
+        {
+            //create new
+            var result = await Context.CreateUserAsync(_newUser, _password, UserManager);
+            if (result.Succeeded)
+            {
+                NavigationManager.NavigateTo("/users");
+            }
+            else
+            {
+                errorMessages.AddRange(result.Errors.Select(e => e.Description));
+                //handle error
+            }
+        }
+    }
+
+    private void Reset()
+    {
+        _newUser = new ApplicationUser()
+        {
+            IsAdmin = false,
+            UserName = ""
+        };
+        _password = "";
+    }
+
+    private void Cancel()
+    {
+        NavigationManager.NavigateTo("/users");
+    }
+
+}

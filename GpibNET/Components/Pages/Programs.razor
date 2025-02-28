@@ -1,0 +1,71 @@
+﻿@page "/programs"
+
+@using Gpib.Web.Data.DBClasses
+@using Gpib.Web.Data;
+@using Gpib.Web.Pages
+
+@using Microsoft.EntityFrameworkCore
+
+@inject NavigationManager NavigationManager
+@inject ApplicationDbContext DbContext
+
+<PageTitle>Programs</PageTitle>
+
+<h1>Programs</h1>
+
+<button class="btn btn-primary" @onclick="CreateNewProgram">Create New Program</button>
+
+@if (programs == null)
+{
+    <p><em>Loading...</em></p>
+}
+else if (!programs.Any())
+{
+    <p><em>No programs available.</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Created on</th>
+            <th>Last Changed on</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var program in programs)
+        {
+            <tr>
+                    <td>@program.Name</td>
+                    <td>@program.CreationDateTime</td>
+                    <td>@program.LastChange</td>
+                    <td>@program.LastRunResult</td>
+                    <td>
+                        <button class="btn-secondary" @onclick="() => EditProgram(program.Id)">Edit</button>
+                    </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<ProgramFile> programs;
+
+    protected override async Task OnInitializedAsync()
+    {
+        programs = await DbContext.ProgramFiles.ToListAsync();
+    }
+
+    private void CreateNewProgram()
+    {
+        NavigationManager.NavigateTo("/programcreator");
+    }
+    private void EditProgram(int id)
+    {
+        NavigationManager.NavigateTo($"/program/{id}");
+    }
+}

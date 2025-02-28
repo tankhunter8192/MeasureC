@@ -1,0 +1,2397 @@
+{
+  "Files": [
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\CodeEditor.razor.js",
+      "PackagePath": "staticwebassets\\Components\\Pages\\CodeEditor.razor.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Components\\Pages\\ProgramEditor.razor.js",
+      "PackagePath": "staticwebassets\\Components\\Pages\\ProgramEditor.razor.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Gpib.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Gpib.Web.ohwepz1qoa.bundle.scp.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\js\\CodeMirrorStart.js",
+      "PackagePath": "staticwebassets\\js\\CodeMirrorStart.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\.editorconfig",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\.editorconfig"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\.gitattributes",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\.gitattributes"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\.npmignore",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\.npmignore"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\AUTHORS",
+      "PackagePath": "staticwebassets\\lib\\codemirror"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\CHANGELOG.md"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\codemirror"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\README.md",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\README.md"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\comment\\comment.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\comment\\comment.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\comment\\continuecomment.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\comment\\continuecomment.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\dialog\\dialog.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\dialog\\dialog.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\dialog\\dialog.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\dialog\\dialog.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\display\\autorefresh.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\display\\autorefresh.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\display\\fullscreen.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\display\\fullscreen.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\display\\fullscreen.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\display\\fullscreen.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\display\\panel.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\display\\panel.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\display\\placeholder.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\display\\placeholder.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\display\\rulers.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\display\\rulers.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\edit\\closebrackets.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\edit\\closebrackets.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\edit\\closetag.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\edit\\closetag.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\edit\\continuelist.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\edit\\continuelist.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\edit\\matchbrackets.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\edit\\matchbrackets.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\edit\\matchtags.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\edit\\matchtags.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\edit\\trailingspace.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\edit\\trailingspace.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\fold\\brace-fold.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\fold\\brace-fold.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\fold\\comment-fold.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\fold\\comment-fold.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\fold\\foldcode.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\fold\\foldcode.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\fold\\foldgutter.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\fold\\foldgutter.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\fold\\foldgutter.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\fold\\foldgutter.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\fold\\indent-fold.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\fold\\indent-fold.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\fold\\markdown-fold.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\fold\\markdown-fold.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\fold\\xml-fold.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\fold\\xml-fold.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\hint\\anyword-hint.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\hint\\anyword-hint.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\hint\\css-hint.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\hint\\css-hint.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\hint\\html-hint.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\hint\\html-hint.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\hint\\javascript-hint.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\hint\\javascript-hint.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\hint\\show-hint.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\hint\\show-hint.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\hint\\show-hint.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\hint\\show-hint.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\hint\\sql-hint.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\hint\\sql-hint.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\hint\\xml-hint.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\hint\\xml-hint.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\lint\\coffeescript-lint.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\lint\\coffeescript-lint.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\lint\\css-lint.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\lint\\css-lint.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\lint\\html-lint.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\lint\\html-lint.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\lint\\javascript-lint.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\lint\\javascript-lint.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\lint\\json-lint.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\lint\\json-lint.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\lint\\lint.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\lint\\lint.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\lint\\lint.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\lint\\lint.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\lint\\yaml-lint.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\lint\\yaml-lint.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\merge\\merge.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\merge\\merge.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\merge\\merge.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\merge\\merge.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\mode\\loadmode.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\mode\\loadmode.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\mode\\multiplex.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\mode\\multiplex.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\mode\\multiplex_test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\mode\\multiplex_test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\mode\\overlay.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\mode\\overlay.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\mode\\simple.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\mode\\simple.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\runmode\\colorize.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\runmode\\colorize.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\runmode\\runmode-standalone.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\runmode\\runmode-standalone.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\runmode\\runmode.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\runmode\\runmode.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\runmode\\runmode.node.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\runmode\\runmode.node.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\scroll\\annotatescrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\scroll\\annotatescrollbar.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\scroll\\scrollpastend.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\scroll\\scrollpastend.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\scroll\\simplescrollbars.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\scroll\\simplescrollbars.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\scroll\\simplescrollbars.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\scroll\\simplescrollbars.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\search\\jump-to-line.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\search\\jump-to-line.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\search\\match-highlighter.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\search\\match-highlighter.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\search\\matchesonscrollbar.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\search\\matchesonscrollbar.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\search\\matchesonscrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\search\\matchesonscrollbar.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\search\\search.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\search\\search.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\search\\searchcursor.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\search\\searchcursor.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\selection\\active-line.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\selection\\active-line.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\selection\\mark-selection.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\selection\\mark-selection.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\selection\\selection-pointer.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\selection\\selection-pointer.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\tern\\tern.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\tern\\tern.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\tern\\tern.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\tern\\tern.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\tern\\worker.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\tern\\worker.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\addon\\wrap\\hardwrap.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\addon\\wrap\\hardwrap.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\bin\\authors.sh",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\bin\\authors.sh"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\bin\\lint",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\bin"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\bin\\release",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\bin"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\bin\\source-highlight",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\bin"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\bin\\upload-release.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\bin\\upload-release.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\activeline.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\activeline.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\anywordhint.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\anywordhint.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\bidi.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\bidi.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\btree.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\btree.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\buffers.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\buffers.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\changemode.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\changemode.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\closebrackets.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\closebrackets.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\closetag.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\closetag.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\complete.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\complete.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\emacs.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\emacs.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\folding.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\folding.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\fullscreen.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\fullscreen.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\hardwrap.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\hardwrap.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\html5complete.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\html5complete.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\indentwrap.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\indentwrap.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\lint.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\lint.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\loadmode.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\loadmode.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\marker.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\marker.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\markselection.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\markselection.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\matchhighlighter.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\matchhighlighter.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\matchtags.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\matchtags.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\merge.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\merge.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\multiplex.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\multiplex.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\mustache.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\mustache.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\panel.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\panel.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\placeholder.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\placeholder.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\preview.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\preview.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\requirejs.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\requirejs.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\resize.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\resize.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\rulers.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\rulers.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\runmode-standalone.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\runmode-standalone.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\runmode.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\runmode.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\search.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\search.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\simplemode.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\simplemode.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\simplescrollbars.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\simplescrollbars.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\spanaffectswrapping_shim.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\spanaffectswrapping_shim.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\sublime.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\sublime.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\tern.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\tern.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\theme.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\theme.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\trailingspace.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\trailingspace.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\variableheight.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\variableheight.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\vim.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\vim.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\visibletabs.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\visibletabs.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\widget.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\widget.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\demo\\xmlcomplete.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\demo\\xmlcomplete.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\doc\\activebookmark.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\doc\\activebookmark.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\doc\\docs.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\doc\\docs.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\doc\\internals.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\doc\\internals.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\doc\\logo.png",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\doc\\logo.png"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\doc\\logo.svg",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\doc\\logo.svg"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\doc\\manual.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\doc\\manual.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\doc\\releases.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\doc\\releases.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\doc\\reporting.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\doc\\reporting.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\doc\\source_sans.woff",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\doc\\source_sans.woff"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\doc\\upgrade_v2.2.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\doc\\upgrade_v2.2.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\doc\\upgrade_v3.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\doc\\upgrade_v3.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\doc\\upgrade_v4.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\doc\\upgrade_v4.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\doc\\yinyang.png",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\doc\\yinyang.png"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\keymap\\emacs.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\keymap\\emacs.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\keymap\\sublime.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\keymap\\sublime.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\keymap\\vim.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\keymap\\vim.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\lib\\codemirror.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\lib\\codemirror.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\lib\\codemirror.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\lib\\codemirror.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\apl\\apl.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\apl\\apl.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\apl\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\apl\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\asciiarmor\\asciiarmor.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\asciiarmor\\asciiarmor.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\asciiarmor\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\asciiarmor\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\asn.1\\asn.1.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\asn.1\\asn.1.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\asn.1\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\asn.1\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\asterisk\\asterisk.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\asterisk\\asterisk.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\asterisk\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\asterisk\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\brainfuck\\brainfuck.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\brainfuck\\brainfuck.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\brainfuck\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\brainfuck\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\clike\\clike.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\clike\\clike.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\clike\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\clike\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\clike\\scala.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\clike\\scala.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\clike\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\clike\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\clojure\\clojure.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\clojure\\clojure.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\clojure\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\clojure\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\clojure\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\clojure\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\cmake\\cmake.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\cmake\\cmake.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\cmake\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\cmake\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\cobol\\cobol.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\cobol\\cobol.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\cobol\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\cobol\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\coffeescript\\coffeescript.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\coffeescript\\coffeescript.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\coffeescript\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\coffeescript\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\commonlisp\\commonlisp.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\commonlisp\\commonlisp.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\commonlisp\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\commonlisp\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\crystal\\crystal.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\crystal\\crystal.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\crystal\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\crystal\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\css\\css.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\css\\css.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\css\\gss.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\css\\gss.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\css\\gss_test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\css\\gss_test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\css\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\css\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\css\\less.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\css\\less.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\css\\less_test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\css\\less_test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\css\\scss.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\css\\scss.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\css\\scss_test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\css\\scss_test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\css\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\css\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\cypher\\cypher.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\cypher\\cypher.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\cypher\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\cypher\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\cypher\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\cypher\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\d\\d.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\d\\d.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\d\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\d\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\d\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\d\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\dart\\dart.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\dart\\dart.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\dart\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\dart\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\diff\\diff.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\diff\\diff.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\diff\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\diff\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\django\\django.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\django\\django.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\django\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\django\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\dockerfile\\dockerfile.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\dockerfile\\dockerfile.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\dockerfile\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\dockerfile\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\dockerfile\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\dockerfile\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\dtd\\dtd.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\dtd\\dtd.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\dtd\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\dtd\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\dylan\\dylan.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\dylan\\dylan.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\dylan\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\dylan\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\dylan\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\dylan\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\ebnf\\ebnf.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\ebnf\\ebnf.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\ebnf\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\ebnf\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\ecl\\ecl.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\ecl\\ecl.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\ecl\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\ecl\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\eiffel\\eiffel.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\eiffel\\eiffel.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\eiffel\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\eiffel\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\elm\\elm.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\elm\\elm.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\elm\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\elm\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\erlang\\erlang.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\erlang\\erlang.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\erlang\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\erlang\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\factor\\factor.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\factor\\factor.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\factor\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\factor\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\fcl\\fcl.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\fcl\\fcl.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\fcl\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\fcl\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\forth\\forth.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\forth\\forth.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\forth\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\forth\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\fortran\\fortran.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\fortran\\fortran.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\fortran\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\fortran\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\gas\\gas.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\gas\\gas.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\gas\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\gas\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\gfm\\gfm.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\gfm\\gfm.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\gfm\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\gfm\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\gfm\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\gfm\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\gherkin\\gherkin.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\gherkin\\gherkin.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\gherkin\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\gherkin\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\go\\go.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\go\\go.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\go\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\go\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\groovy\\groovy.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\groovy\\groovy.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\groovy\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\groovy\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\haml\\haml.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\haml\\haml.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\haml\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\haml\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\haml\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\haml\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\handlebars\\handlebars.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\handlebars\\handlebars.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\handlebars\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\handlebars\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\haskell-literate\\haskell-literate.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\haskell-literate\\haskell-literate.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\haskell-literate\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\haskell-literate\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\haskell\\haskell.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\haskell\\haskell.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\haskell\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\haskell\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\haxe\\haxe.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\haxe\\haxe.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\haxe\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\haxe\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\htmlembedded\\htmlembedded.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\htmlembedded\\htmlembedded.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\htmlembedded\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\htmlembedded\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\htmlmixed\\htmlmixed.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\htmlmixed\\htmlmixed.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\htmlmixed\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\htmlmixed\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\http\\http.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\http\\http.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\http\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\http\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\idl\\idl.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\idl\\idl.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\idl\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\idl\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\javascript\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\javascript\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\javascript\\javascript.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\javascript\\javascript.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\javascript\\json-ld.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\javascript\\json-ld.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\javascript\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\javascript\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\javascript\\typescript.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\javascript\\typescript.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\jinja2\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\jinja2\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\jinja2\\jinja2.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\jinja2\\jinja2.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\jsx\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\jsx\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\jsx\\jsx.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\jsx\\jsx.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\jsx\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\jsx\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\julia\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\julia\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\julia\\julia.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\julia\\julia.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\livescript\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\livescript\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\livescript\\livescript.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\livescript\\livescript.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\lua\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\lua\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\lua\\lua.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\lua\\lua.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\markdown\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\markdown\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\markdown\\markdown.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\markdown\\markdown.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\markdown\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\markdown\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\mathematica\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\mathematica\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\mathematica\\mathematica.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\mathematica\\mathematica.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\mbox\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\mbox\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\mbox\\mbox.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\mbox\\mbox.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\meta.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\meta.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\mirc\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\mirc\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\mirc\\mirc.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\mirc\\mirc.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\mllike\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\mllike\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\mllike\\mllike.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\mllike\\mllike.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\modelica\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\modelica\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\modelica\\modelica.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\modelica\\modelica.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\mscgen\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\mscgen\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\mscgen\\mscgen.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\mscgen\\mscgen.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\mscgen\\mscgen_test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\mscgen\\mscgen_test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\mscgen\\msgenny_test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\mscgen\\msgenny_test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\mscgen\\xu_test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\mscgen\\xu_test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\mumps\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\mumps\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\mumps\\mumps.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\mumps\\mumps.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\nginx\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\nginx\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\nginx\\nginx.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\nginx\\nginx.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\nsis\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\nsis\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\nsis\\nsis.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\nsis\\nsis.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\ntriples\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\ntriples\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\ntriples\\ntriples.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\ntriples\\ntriples.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\octave\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\octave\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\octave\\octave.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\octave\\octave.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\oz\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\oz\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\oz\\oz.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\oz\\oz.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\pascal\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\pascal\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\pascal\\pascal.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\pascal\\pascal.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\pegjs\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\pegjs\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\pegjs\\pegjs.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\pegjs\\pegjs.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\perl\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\perl\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\perl\\perl.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\perl\\perl.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\php\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\php\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\php\\php.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\php\\php.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\php\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\php\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\pig\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\pig\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\pig\\pig.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\pig\\pig.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\powershell\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\powershell\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\powershell\\powershell.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\powershell\\powershell.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\powershell\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\powershell\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\properties\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\properties\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\properties\\properties.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\properties\\properties.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\protobuf\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\protobuf\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\protobuf\\protobuf.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\protobuf\\protobuf.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\pug\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\pug\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\pug\\pug.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\pug\\pug.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\puppet\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\puppet\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\puppet\\puppet.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\puppet\\puppet.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\python\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\python\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\python\\python.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\python\\python.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\python\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\python\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\q\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\q\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\q\\q.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\q\\q.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\r\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\r\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\r\\r.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\r\\r.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\rpm\\changes\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\rpm\\changes\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\rpm\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\rpm\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\rpm\\rpm.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\rpm\\rpm.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\rst\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\rst\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\rst\\rst.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\rst\\rst.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\ruby\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\ruby\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\ruby\\ruby.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\ruby\\ruby.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\ruby\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\ruby\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\rust\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\rust\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\rust\\rust.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\rust\\rust.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\rust\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\rust\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\sas\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\sas\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\sas\\sas.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\sas\\sas.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\sass\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\sass\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\sass\\sass.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\sass\\sass.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\sass\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\sass\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\scheme\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\scheme\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\scheme\\scheme.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\scheme\\scheme.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\shell\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\shell\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\shell\\shell.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\shell\\shell.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\shell\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\shell\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\sieve\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\sieve\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\sieve\\sieve.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\sieve\\sieve.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\slim\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\slim\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\slim\\slim.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\slim\\slim.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\slim\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\slim\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\smalltalk\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\smalltalk\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\smalltalk\\smalltalk.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\smalltalk\\smalltalk.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\smarty\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\smarty\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\smarty\\smarty.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\smarty\\smarty.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\solr\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\solr\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\solr\\solr.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\solr\\solr.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\soy\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\soy\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\soy\\soy.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\soy\\soy.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\soy\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\soy\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\sparql\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\sparql\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\sparql\\sparql.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\sparql\\sparql.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\spreadsheet\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\spreadsheet\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\spreadsheet\\spreadsheet.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\spreadsheet\\spreadsheet.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\sql\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\sql\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\sql\\sql.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\sql\\sql.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\stex\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\stex\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\stex\\stex.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\stex\\stex.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\stex\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\stex\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\stylus\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\stylus\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\stylus\\stylus.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\stylus\\stylus.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\swift\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\swift\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\swift\\swift.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\swift\\swift.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\swift\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\swift\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\tcl\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\tcl\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\tcl\\tcl.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\tcl\\tcl.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\textile\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\textile\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\textile\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\textile\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\textile\\textile.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\textile\\textile.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\tiddlywiki\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\tiddlywiki\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\tiddlywiki\\tiddlywiki.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\tiddlywiki\\tiddlywiki.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\tiddlywiki\\tiddlywiki.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\tiddlywiki\\tiddlywiki.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\tiki\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\tiki\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\tiki\\tiki.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\tiki\\tiki.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\tiki\\tiki.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\tiki\\tiki.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\toml\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\toml\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\toml\\toml.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\toml\\toml.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\tornado\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\tornado\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\tornado\\tornado.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\tornado\\tornado.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\troff\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\troff\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\troff\\troff.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\troff\\troff.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\ttcn-cfg\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\ttcn-cfg\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\ttcn-cfg\\ttcn-cfg.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\ttcn-cfg\\ttcn-cfg.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\ttcn\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\ttcn\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\ttcn\\ttcn.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\ttcn\\ttcn.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\turtle\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\turtle\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\turtle\\turtle.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\turtle\\turtle.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\twig\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\twig\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\twig\\twig.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\twig\\twig.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\vb\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\vb\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\vb\\vb.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\vb\\vb.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\vbscript\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\vbscript\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\vbscript\\vbscript.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\vbscript\\vbscript.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\velocity\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\velocity\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\velocity\\velocity.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\velocity\\velocity.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\verilog\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\verilog\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\verilog\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\verilog\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\verilog\\verilog.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\verilog\\verilog.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\vhdl\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\vhdl\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\vhdl\\vhdl.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\vhdl\\vhdl.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\vue\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\vue\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\vue\\vue.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\vue\\vue.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\wast\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\wast\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\wast\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\wast\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\wast\\wast.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\wast\\wast.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\webidl\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\webidl\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\webidl\\webidl.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\webidl\\webidl.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\xml\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\xml\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\xml\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\xml\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\xml\\xml.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\xml\\xml.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\xquery\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\xquery\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\xquery\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\xquery\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\xquery\\xquery.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\xquery\\xquery.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\yacas\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\yacas\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\yacas\\yacas.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\yacas\\yacas.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\yaml-frontmatter\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\yaml-frontmatter\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\yaml-frontmatter\\yaml-frontmatter.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\yaml-frontmatter\\yaml-frontmatter.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\yaml\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\yaml\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\yaml\\yaml.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\yaml\\yaml.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\z80\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\z80\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\mode\\z80\\z80.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\mode\\z80\\z80.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\package-lock.json"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\package.json",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\package.json"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\rollup.config.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\rollup.config.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\addon\\runmode\\codemirror-standalone.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\addon\\runmode\\codemirror-standalone.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\addon\\runmode\\codemirror.node.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\addon\\runmode\\codemirror.node.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\addon\\runmode\\runmode-standalone.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\addon\\runmode\\runmode-standalone.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\addon\\runmode\\runmode.node.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\addon\\runmode\\runmode.node.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\codemirror.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\codemirror.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\display\\Display.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\display\\Display.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\display\\focus.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\display\\focus.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\display\\gutters.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\display\\gutters.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\display\\highlight_worker.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\display\\highlight_worker.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\display\\line_numbers.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\display\\line_numbers.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\display\\mode_state.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\display\\mode_state.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\display\\operations.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\display\\operations.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\display\\scroll_events.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\display\\scroll_events.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\display\\scrollbars.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\display\\scrollbars.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\display\\scrolling.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\display\\scrolling.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\display\\selection.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\display\\selection.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\display\\update_display.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\display\\update_display.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\display\\update_line.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\display\\update_line.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\display\\update_lines.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\display\\update_lines.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\display\\view_tracking.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\display\\view_tracking.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\edit\\CodeMirror.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\edit\\CodeMirror.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\edit\\commands.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\edit\\commands.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\edit\\deleteNearSelection.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\edit\\deleteNearSelection.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\edit\\drop_events.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\edit\\drop_events.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\edit\\fromTextArea.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\edit\\fromTextArea.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\edit\\global_events.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\edit\\global_events.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\edit\\key_events.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\edit\\key_events.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\edit\\legacy.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\edit\\legacy.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\edit\\main.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\edit\\main.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\edit\\methods.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\edit\\methods.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\edit\\mouse_events.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\edit\\mouse_events.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\edit\\options.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\edit\\options.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\edit\\utils.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\edit\\utils.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\input\\ContentEditableInput.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\input\\ContentEditableInput.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\input\\TextareaInput.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\input\\TextareaInput.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\input\\indent.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\input\\indent.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\input\\input.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\input\\input.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\input\\keymap.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\input\\keymap.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\input\\keynames.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\input\\keynames.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\input\\movement.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\input\\movement.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\line\\highlight.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\line\\highlight.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\line\\line_data.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\line\\line_data.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\line\\pos.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\line\\pos.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\line\\saw_special_spans.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\line\\saw_special_spans.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\line\\spans.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\line\\spans.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\line\\utils_line.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\line\\utils_line.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\measurement\\position_measurement.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\measurement\\position_measurement.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\measurement\\widgets.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\measurement\\widgets.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\model\\Doc.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\model\\Doc.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\model\\change_measurement.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\model\\change_measurement.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\model\\changes.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\model\\changes.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\model\\chunk.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\model\\chunk.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\model\\document_data.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\model\\document_data.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\model\\history.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\model\\history.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\model\\line_widget.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\model\\line_widget.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\model\\mark_text.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\model\\mark_text.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\model\\selection.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\model\\selection.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\model\\selection_updates.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\model\\selection_updates.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\modes.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\modes.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\util\\StringStream.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\util\\StringStream.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\util\\bidi.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\util\\bidi.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\util\\browser.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\util\\browser.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\util\\dom.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\util\\dom.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\util\\event.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\util\\event.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\util\\feature_detection.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\util\\feature_detection.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\util\\misc.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\util\\misc.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\src\\util\\operation_group.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\src\\util\\operation_group.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\annotatescrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\annotatescrollbar.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\comment_test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\comment_test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\contenteditable_test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\contenteditable_test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\doc_test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\doc_test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\driver.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\driver.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\emacs_test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\emacs_test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\html-hint-test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\html-hint-test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\index.html",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\index.html"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\lint.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\lint.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\mode_test.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\mode_test.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\mode_test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\mode_test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\multi_test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\multi_test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\run.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\run.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\scroll_test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\scroll_test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\search_test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\search_test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\sql-hint-test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\sql-hint-test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\sublime_test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\sublime_test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\test\\test.js",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\test\\test.js"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\3024-day.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\3024-day.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\3024-night.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\3024-night.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\abbott.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\abbott.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\abcdef.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\abcdef.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\ambiance-mobile.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\ambiance-mobile.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\ambiance.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\ambiance.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\ayu-dark.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\ayu-dark.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\ayu-mirage.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\ayu-mirage.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\base16-dark.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\base16-dark.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\base16-light.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\base16-light.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\bespin.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\bespin.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\blackboard.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\blackboard.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\cobalt.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\cobalt.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\colorforth.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\colorforth.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\darcula.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\darcula.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\dracula.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\dracula.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\duotone-dark.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\duotone-dark.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\duotone-light.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\duotone-light.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\eclipse.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\eclipse.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\elegant.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\elegant.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\erlang-dark.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\erlang-dark.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\gruvbox-dark.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\gruvbox-dark.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\hopscotch.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\hopscotch.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\icecoder.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\icecoder.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\idea.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\idea.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\isotope.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\isotope.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\juejin.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\juejin.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\lesser-dark.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\lesser-dark.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\liquibyte.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\liquibyte.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\lucario.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\lucario.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\material-darker.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\material-darker.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\material-ocean.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\material-ocean.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\material-palenight.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\material-palenight.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\material.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\material.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\mbo.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\mbo.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\mdn-like.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\mdn-like.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\midnight.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\midnight.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\monokai.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\monokai.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\moxer.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\moxer.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\neat.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\neat.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\neo.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\neo.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\night.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\night.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\nord.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\nord.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\oceanic-next.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\oceanic-next.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\panda-syntax.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\panda-syntax.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\paraiso-dark.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\paraiso-dark.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\paraiso-light.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\paraiso-light.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\pastel-on-dark.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\pastel-on-dark.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\railscasts.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\railscasts.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\rubyblue.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\rubyblue.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\seti.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\seti.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\shadowfox.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\shadowfox.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\solarized.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\solarized.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\ssms.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\ssms.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\the-matrix.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\the-matrix.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\tomorrow-night-bright.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\tomorrow-night-bright.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\tomorrow-night-eighties.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\tomorrow-night-eighties.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\ttcn.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\ttcn.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\twilight.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\twilight.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\vibrant-ink.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\vibrant-ink.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\xq-dark.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\xq-dark.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\xq-light.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\xq-light.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\yeti.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\yeti.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\yonce.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\yonce.css"
+    },
+    {
+      "Id": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\wwwroot\\lib\\codemirror\\theme\\zenburn.css",
+      "PackagePath": "staticwebassets\\lib\\codemirror\\theme\\zenburn.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Gpib.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Gpib.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Gpib.Web.props",
+      "PackagePath": "build\\Gpib.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Gpib.Web.props",
+      "PackagePath": "buildMultiTargeting\\Gpib.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Gpib.Web.props",
+      "PackagePath": "buildTransitive\\Gpib.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

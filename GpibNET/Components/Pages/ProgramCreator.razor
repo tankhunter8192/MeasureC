@@ -1,0 +1,91 @@
+﻿@page "/programcreator"
+
+@using System.Security.Cryptography
+@using Gpib.Web.Data
+@using Gpib.Web.Data.DBClasses
+@using IronPython.Modules
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.CodeAnalysis.CSharp.Syntax
+@inject NavigationManager NavigationManager
+@inject ApplicationDbContext DbContext
+@inject UserManager<ApplicationUser> UserManager
+@inject AuthenticationStateProvider AuthenticationStateProvider
+@attribute [Authorize]
+
+<PageTitle>Create Program</PageTitle>
+
+<h1>Create Program</h1>
+
+<form method="post" @onsubmit="HandleValidSubmit">
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" id="name" class="form-control" @bind="newProgram.Name" required />
+    </div>
+    <div class="form-group">
+        <label for="description">Description</label>
+        <textarea id="description" class="form-control" @bind="newProgram.Description"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+@code {
+    private ProgramFile newProgram = new ProgramFile();
+
+    private async Task HandleValidSubmit()
+    {
+        //TODO: Clean up unused code and update documentation userid is now username because some non-deterministic behaviors
+        var authState = await AuthenticationStateProvider.GetAuthenticationStateAsync();
+        var user = await UserManager.GetUserAsync(authState.User);
+        if(user == null)
+        {
+            //throw new Exception("UserManager: User not found");
+        }
+        var userId = authState.User.Identity.Name;
+        var userman = await UserManager.FindByNameAsync(userId);
+        if (userId != userman.UserId)
+        {
+            //throw new Exception("authState: " + userId + " , Usermanager: " + userman.UserId);
+        }
+        string name = newProgram.Name;
+        newProgram.CreationDateTime = DateTime.UtcNow;
+        newProgram.LastChange = DateTime.UtcNow;
+        newProgram.CreationUserId = userId;
+        newProgram.LastChangeUserId = userId!;
+        if (!await ValidateProgramFileUserAsync(newProgram))
+        {
+            //throw new Exception("User not found");
+        }
+        if (newProgram.Description == null)
+        {
+            newProgram.Description = String.Empty;
+        }
+        DbContext.ProgramFiles.Add(newProgram);
+        await DbContext.SaveChangesAsync();
+        int id = 0;
+        foreach (var program in DbContext.ProgramFiles)
+         {
+             if (program.Name == newProgram.Name)
+             {
+                 id = program.Id;
+             }
+         }
+
+        if (id == 0)
+        {
+            NavigationManager.NavigateTo("/programs");
+        }
+        else
+        {
+            // Redirect to the program in an editor
+            NavigationManager.NavigateTo($"/programeditor/{id}");
+        }
+        
+    }
+
+    private async Task<bool> ValidateProgramFileUserAsync(ProgramFile programFile)
+    {
+        var user = await UserManager.FindByIdAsync(programFile.CreationUserId);
+        return user != null;
+    }
+}

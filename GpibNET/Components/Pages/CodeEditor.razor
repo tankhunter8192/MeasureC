@@ -1,0 +1,41 @@
+﻿@implements IAsyncDisposable
+@inject IJSRuntime JSRuntime
+
+<div class="editor-class">
+    <textarea id="@_elementId"></textarea>
+</div>
+
+@code
+{
+    private string _elementId = $"editor-{Guid.NewGuid()}";
+    private IJSObjectReference _module;
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            _module = await JSRuntime.InvokeAsync<IJSObjectReference>("import", "./Components/Pages/CodeEditor.razor.js");
+
+            await _module.InvokeVoidAsync("initialize", _elementId);
+        }
+    }
+
+    public async ValueTask<string> GetContentAsync() => _module != null ? await _module.InvokeAsync<string>("getContent") : string.Empty;
+
+    public async ValueTask SetContentAsync(string content)
+    {
+        if (_module != null)
+        {
+            await _module.InvokeVoidAsync("setContent", content);
+        }
+    }
+
+    public async ValueTask DisposeAsync()
+    {
+        if (_module != null)
+        {
+            await _module.InvokeVoidAsync("dispose");
+            await _module.DisposeAsync();
+        }
+    }
+}

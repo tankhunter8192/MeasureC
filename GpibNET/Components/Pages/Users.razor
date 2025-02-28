@@ -1,0 +1,94 @@
+﻿@page "/users"
+
+@using Gpib.Web.Data.DBClasses
+@using Gpib.Web.Data;
+@using Gpib.Web.Pages
+
+@using Microsoft.EntityFrameworkCore
+@using Microsoft.AspNetCore.Identity
+
+@inject NavigationManager NavigationManager
+@inject ApplicationDbContext DbContext
+
+<PageTitle>Users</PageTitle>
+
+<h1>Users</h1>
+
+<AuthorizeView Roles="Admin">
+    <Authorized>
+        <button class="btn btn-primary" @onclick="CreateNewUser">Create New User</button>
+    </Authorized>
+    <NotAuthorized>
+        <p>You do not have permission to create or edit users.</p>
+    </NotAuthorized>
+</AuthorizeView>
+
+
+@if (users == null)
+{
+    <p><em>Loading...</em></p>
+}
+else if (!users.Any())
+{
+    <p><em>No users available.</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Username</th>
+                <th>Created on</th>
+                <th>Last Logged on</th>
+                <th>Is Admin</th>
+                <th>Is Locked</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in users)
+            {
+                <tr>
+                    <td>@user.UserName</td>
+                    <td>@user.AddDateTime.ToLocalTime()</td>
+                    <td>@user.LastLoginDateTime.ToLocalTime()</td>
+                    <td>@user.IsAdmin</td>
+                    <td>@user.IsLocked</td>
+                    <td>
+                        <AuthorizeView Roles="Admin">
+                            <Authorized>
+                                <button class="btn-secondary" @onclick="() => EditUser(user.Id)">Edit</button>
+                                <button class="btn-warning" @onclick="() => LockUser(user.Id)">Lock </button>
+                            </Authorized>
+                        </AuthorizeView>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code
+{
+    private List<ApplicationUser> users;
+
+    protected override async Task OnInitializedAsync()
+    {
+        users = await DbContext.Users.ToListAsync();
+    }
+
+    private void CreateNewUser()
+    {
+        NavigationManager.NavigateTo("/usercreator");
+    }
+
+    private void EditUser(string id)
+    {
+        NavigationManager.NavigateTo("/user/{id}");
+    }
+
+    private void LockUser(string id)
+    {
+        //not supported for the time been
+    }
+}

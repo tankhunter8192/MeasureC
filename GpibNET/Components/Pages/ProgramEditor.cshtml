@@ -1,0 +1,38 @@
+﻿@page
+@model Gpib.Web.Pages.EditProgramFileModel
+@{
+    ViewData["Title"] = "Edit Program File";
+}
+
+<h1>Edit Program File</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="ProgramFile.Name"></label>
+        <input asp-for="ProgramFile.Name" class="form-control" />
+        <span asp-validation-for="ProgramFile.Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ProgramFile.Description"></label>
+        <textarea asp-for="ProgramFile.Description" class="form-control"></textarea>
+        <span asp-validation-for="ProgramFile.Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ProgramFile.Content"></label>
+        <textarea asp-for="ProgramFile.Content" class="form-control" id="editor"></textarea>
+        <span asp-validation-for="ProgramFile.Content" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+@section Scripts {
+    <link rel="stylesheet" href="~/lib/codemirror/lib/codemirror.css" />
+    <script src="~/lib/codemirror/lib/codemirror.js"></script>
+    <script src="~/lib/codemirror/mode/javascript/javascript.js"></script>
+    <script>
+        var editor = CodeMirror.fromTextArea(document.getElementById('editor'), {
+            lineNumbers: true,
+            mode: "javascript"
+        });
+    </script>
+}

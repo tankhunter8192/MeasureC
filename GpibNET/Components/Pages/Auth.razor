@@ -1,0 +1,29 @@
+﻿@page "/auth"
+
+@using Community.CsharpSqlite
+@using Gpib.Web.Data
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.EntityFrameworkCore
+@inject ApplicationDbContext DbContext
+@inject AuthenticationStateProvider AuthenticationStateProvider
+
+@attribute [Authorize]
+
+<PageTitle>Auth</PageTitle>
+
+<h1>You are authenticated</h1>
+
+<AuthorizeView>
+    Hello @context.User.Identity?.Name !, you are id: @userid
+</AuthorizeView>
+
+@code
+{
+    string userid = "";
+    protected override async Task OnInitializedAsync()
+    {
+        var authState = await AuthenticationStateProvider.GetAuthenticationStateAsync();
+        var user = authState.User;
+        var userId = DbContext.Users.FirstOrDefault(u => u.UserName == user.Identity!.Name);
+    }
+}

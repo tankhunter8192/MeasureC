@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NyW9/bV8tAm0er3Hyx4JvrdvqHiI/MW2R5qMoj/3amM=",
+  "Source": "GPIB.Data",
+  "BasePath": "_content/GPIB.Data",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

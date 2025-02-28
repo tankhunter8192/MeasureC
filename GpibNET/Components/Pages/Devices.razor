@@ -1,0 +1,81 @@
+﻿@page "/devices"
+
+@using Gpib.Web.Data.DBClasses  
+@using Gpib.Web.Data
+@using Gpib.Web.Pages
+
+@using Microsoft.EntityFrameworkCore
+@using Microsoft.AspNetCore.Identity
+
+@inject NavigationManager NavigationManager
+@inject ApplicationDbContext DbContext
+
+<PageTitle>Devices</PageTitle>
+
+<h1>Devices</h1>
+
+<AuthorizeView Roles="Admin">
+    <Authorized>
+        <button class="btn btn-primary" @onclick="SearchDevices">Search Devices</button>
+    </Authorized>
+    <NotAuthorized>
+        <p>You do not have permission to search devices.</p>
+    </NotAuthorized>
+</AuthorizeView>
+
+@if (_devices == null)
+{
+    <p><em>Nothing here</em></p>
+} 
+else if (!_devices.Any())
+{
+    <p><em>No devices available.</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Device Name</th>
+                <th>Device Connection String</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var device in _devices)
+            {
+                <tr>
+                    <td>@device.Name</td>
+                    <td>@device.ConnectionString</td>
+                    <td>
+                        <button class="btn-secondary" @onclick="() => EditDevice(device.Id)">Edit</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code
+{
+    List<GPIBDevice> _devices = new List<GPIBDevice>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        _devices = await DbContext.Devices.ToListAsync();
+        //create Task for auto update
+    }
+
+    private void EditDevice(int id)
+    {
+        NavigationManager.NavigateTo($"/device/{id}");
+    }
+
+    private async void SearchDevices()
+    {
+        await GlobalStaticVariables.PyVisaWrapper.ScanDevices();
+        _devices = await DbContext.Devices.ToListAsync();
+    }
+
+
+}

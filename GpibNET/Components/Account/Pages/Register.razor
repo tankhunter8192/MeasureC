@@ -1,0 +1,129 @@
+﻿@page "/Account/Register"
+@using System.ComponentModel.DataAnnotations
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.Components
+@using Microsoft.Extensions.Logging
+@using Microsoft.AspNetCore.Authentication
+@using Gpib.Web
+@using Gpib.Web.Data
+@using Gpib.Web.Models
+@using Microsoft.IdentityModel.Tokens
+
+@inject UserManager<ApplicationUser> UserManager
+@inject SignInManager<ApplicationUser> SignInManager
+@inject NavigationManager NavigationManager
+@inject ILogger<Register> Logger
+
+<PageTitle>Register</PageTitle>
+<h1>Register</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <section>
+            <StatusMessage Message="@_errorMessage" />
+            <EditForm Model="@registerModel" OnValidSubmit="RegisterF" FormName="registerForm">
+                <DataAnnotationsValidator />
+                <h2>Create a new local account.</h2>
+                <hr />
+
+                <ValidationSummary class="text-danger" role="alert" />
+                <div class="form-floating mb-3">
+                    <input type="text" id="username" @bind-value="registerModel.Username" @bind-value:event="oninput" class="form-control" autocomplete="username" aria-required="true" placeholder="YourUsername" />
+                    <label for="username" class="form-label">Username</label>
+                    <ValidationMessage For="() => registerModel.Username" class="text-danger" />
+                </div>
+
+                <div class="form-floating mb-3">
+                    <input type="password" id="password" @bind-value="registerModel.Password" @bind-value:event="oninput" class="form-control" autocomplete="new-password" aria-required="true" placeholder="Password" />
+                    <label for="password" class="form-label">Password</label>
+                    <ValidationMessage For="() => registerModel.Password" class="text-danger" />
+                </div>
+
+                <div class="form-floating mb-3">
+                    <input type="password" id="confirmPassword" @bind-value="registerModel.ConfirmPassword" @bind-value:event="oninput" class="form-control" autocomplete="new-password" aria-required="true" placeholder="ConfirmPassword" />
+                    <label for="confirmPassword" class="form-label">Confirm Password</label>
+                    <ValidationMessage For="() => registerModel.ConfirmPassword" class="text-danger" />
+                </div>
+
+                <div>
+                    <button type="submit" class="btn btn-primary">Register</button>
+                </div>
+            </EditForm>
+        </section>
+    </div>
+</div>
+
+@code {
+    private sealed class RegisterModel
+    {
+        [Required]
+        public string Username { get; set; } = string.Empty;
+
+        [Required]
+        [DataType(DataType.Password)]
+        public string Password { get; set; } = string.Empty;
+
+        [Required]
+        [DataType(DataType.Password)]
+        [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
+        public string ConfirmPassword { get; set; } = string.Empty;
+    }
+
+    private string? _errorMessage;
+
+    [SupplyParameterFromForm]
+    private RegisterModel registerModel { get; set; } = new RegisterModel();
+    /*
+    public Register()
+    {
+        registerModel = new RegisterModel();
+        }
+        */
+    protected override void OnInitialized()
+    {
+        // Initialisierung des Modells
+        //registerModel = new RegisterModel();
+    }
+
+    private async Task RegisterF()
+    {
+        Console.WriteLine("Username: " + registerModel.Username);
+        Console.WriteLine("Password: " + registerModel.Password);
+        Console.WriteLine("ConfirmPassword: " + registerModel.ConfirmPassword);
+        if (!Validator.TryValidateObject(registerModel, new ValidationContext(registerModel), null))
+        {
+            _errorMessage = "Model validation failed.";
+            return;
+        }
+        Logger.LogWarning("Input: " + registerModel.Username + ", " + registerModel.Password + ", " + registerModel.ConfirmPassword);
+        var existingUser = await UserManager.FindByNameAsync(registerModel.Username.ToLower());
+        if (existingUser != null)
+        {
+            _errorMessage = "Username is already taken.";
+            return;
+        }
+        var user = new ApplicationUser
+        {
+            UserName = registerModel.Username,
+            Email = registerModel.Username, //
+            EmailConfirmed = true,
+            IsAdmin = true,
+            IsVisitor = false,
+            IsLocked = false,
+            AccessFailedCount = 0,
+            AddDateTime = DateTime.UtcNow,
+            LastLoginDateTime = DateTime.UtcNow
+        };
+        var result = await UserManager.CreateAsync(user, registerModel.Password);
+        if (result.Succeeded)
+        {
+            Logger.LogInformation("User created a new account with password.");
+            await SignInManager.SignInAsync(user, isPersistent: true);
+            NavigationManager.NavigateTo("/");
+        }
+        else
+        {
+            _errorMessage = string.Join("\n", result.Errors.Select(e => e.Description));
+        }
+    }
+}
