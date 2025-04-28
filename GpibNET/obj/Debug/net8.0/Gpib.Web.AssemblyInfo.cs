@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gpib.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3065db6a5c836c7241da75ed545caf07723ba616")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40a97b281d8b375485ad992517dafec46442b811")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gpib.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gpib.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

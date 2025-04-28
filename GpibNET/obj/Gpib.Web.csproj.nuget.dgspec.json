@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Gpib.Web.csproj": {}
+    "M:\\Repos\\GIT-COPIES\\MeasureC\\GpibNET\\Gpib.Web.csproj": {}
   },
   "projects": {
-    "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GPIB.Data\\GPIB.Data.csproj": {
+    "M:\\Repos\\GIT-COPIES\\MeasureC\\GPIB.Data\\GPIB.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GPIB.Data\\GPIB.Data.csproj",
+        "projectUniqueName": "M:\\Repos\\GIT-COPIES\\MeasureC\\GPIB.Data\\GPIB.Data.csproj",
         "projectName": "GPIB.Data",
-        "projectPath": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GPIB.Data\\GPIB.Data.csproj",
+        "projectPath": "M:\\Repos\\GIT-COPIES\\MeasureC\\GPIB.Data\\GPIB.Data.csproj",
         "packagesPath": "C:\\Users\\Tank\\.nuget\\packages\\",
-        "outputPath": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GPIB.Data\\obj\\",
+        "outputPath": "M:\\Repos\\GIT-COPIES\\MeasureC\\GPIB.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VisualStudioSDKToolsComponents\\NuGetPackages",
@@ -79,18 +79,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\PROGRA~1\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\PROGRA~1\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Gpib.Web.csproj": {
+    "M:\\Repos\\GIT-COPIES\\MeasureC\\GpibNET\\Gpib.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Gpib.Web.csproj",
+        "projectUniqueName": "M:\\Repos\\GIT-COPIES\\MeasureC\\GpibNET\\Gpib.Web.csproj",
         "projectName": "Gpib.Web",
-        "projectPath": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\Gpib.Web.csproj",
+        "projectPath": "M:\\Repos\\GIT-COPIES\\MeasureC\\GpibNET\\Gpib.Web.csproj",
         "packagesPath": "C:\\Users\\Tank\\.nuget\\packages\\",
-        "outputPath": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GpibNET\\obj\\",
+        "outputPath": "M:\\Repos\\GIT-COPIES\\MeasureC\\GpibNET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VisualStudioSDKToolsComponents\\NuGetPackages",
@@ -116,8 +116,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GPIB.Data\\GPIB.Data.csproj": {
-                "projectPath": "M:\\Repos\\GIT-COPIES\\GbipNet\\1-SW\\4-OtherTreeProgram\\GPIB.Data\\GPIB.Data.csproj"
+              "M:\\Repos\\GIT-COPIES\\MeasureC\\GPIB.Data\\GPIB.Data.csproj": {
+                "projectPath": "M:\\Repos\\GIT-COPIES\\MeasureC\\GPIB.Data\\GPIB.Data.csproj"
               }
             }
           }
@@ -238,7 +238,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\PROGRA~1\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\PROGRA~1\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

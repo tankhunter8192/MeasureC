@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@rollup/plugin-buble": "^1.0.3",
+    "rollup": "^2.79.2"
+  }
+}
